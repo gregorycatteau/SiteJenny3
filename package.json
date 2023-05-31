@@ -52,7 +52,7 @@
 		"critters": "^0.0.16",
 		"https-localhost": "^4.7.1",
 		"typescript": "^5.0.2",
-		"unplugin-auto-import": "^0.15.1",
+		"unplugin-auto-import": "^0.16.4",
 		"unplugin-icons": "^0.15.3",
 		"unplugin-vue-components": "0.24.1",
 		"unplugin-vue-router": "^0.0.21",
